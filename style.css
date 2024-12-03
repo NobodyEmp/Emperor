@@ -1,0 +1,120 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header {
+    background: #f4f4f4;
+    padding: none;
+    text-align: center;
+    border-style: dotted;
+    border-radius: 10px;
+    border-bottom: 3px solid brown;
+}
+
+header h1 {
+    margin: 0;
+    text-shadow: 3px 3px 5px #f28314;
+}
+
+nav a {
+    margin: 25px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+main {
+    padding: 20px;
+    color: antiquewhite;
+}
+h2 {
+    color: #444;
+}
+
+div h1 {
+    color:burlywood;
+    margin: 10px;
+}
+
+footer {
+    border-bottom: 20px;
+}
+
+button {
+    border-radius: 10px;
+    background-color: bisque;
+    margin: 10px;
+}
+
+body {
+    background-color: #d50df4;
+}
+
+div h2 {
+    text-decoration-line: underline;
+    margin: 10px;
+}
+
+div h3 {
+    text-decoration-line: underline;
+    margin: 10px;
+}
+
+div h4 {
+    text-decoration-line: underline;
+    margin: 10px;
+}
+
+div h4 :hover{
+    background-color: #d5c2a5;
+    margin: 10px;
+}
+
+div h2 :hover{
+    background-color: #429767;
+    margin: 10px;
+}
+
+div h3 :hover{
+    background-color: #b2efea;
+    margin: 10px;
+}
+
+footer nav {
+    list-style-type: none;
+    background-color: #444;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+#services p {
+    margin: 20px;
+}
+
+main a {
+    color: #12ebc6ce;
+}
+
+footer nav:hover {
+    background-color: rgba(207, 171, 9, 0.297);
+}
+
+.icons {
+    color: aliceblue;
+    display:list-item;
+    float: inline-start;
+    margin-inline-end: 6px;
+    
+}
+
+div p {
+    color: rgb(216, 223, 230);
+}
+div p2 {
+    color: rgb(213, 200, 206);
+    font-family: monospace;
+}
